@@ -7,3 +7,10 @@ para poder crear la base ne phpmyadmin deben de selecionar la opcion:
   de momento no hay que instalr dependencias por que es en puro php
 
   luego van verificando cada archivo si se le clono bien y que tambien funcionen 
+
+no se asusten sino les carga en diseño deben de descragar bootsrap loclamente y descomprimir ne la misca carpeta donde esta proyecto
+ademas en al codigo de cada archvo buscan el real link ahi ponen por lik de bootsrap ponen ./css/bootsrap segun sea el archivo que quieren llmar de estilo
+
+
+otra mas no seles olvide que en linux si setem+an la contraseña tambien el archivo conexion deben de colocar el el nombre de admin ejemplo
+root password ejemplo2025 tipo asi
